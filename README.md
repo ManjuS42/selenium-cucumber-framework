@@ -1,6 +1,5 @@
 # 📄 **README.md — Selenium Cucumber Test Automation Framework**
 
-```md
 # 🚀 Selenium Cucumber Test Automation Framework (Java)
 
 A scalable UI automation framework built using **Selenium WebDriver**, **Cucumber BDD (Gherkin)**, and **TestNG**, following **Page Object Model (POM)** design for clean and maintainable automation.
