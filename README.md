@@ -151,8 +151,7 @@ Use **Personal Access Token** instead of password when prompted.
 ## 🧑‍💻 Author
 
 Automation Framework developed by **Manju S**
+
 📍 Cucumber | Selenium | Java | TestNG | POM
 
 ```
-
----
