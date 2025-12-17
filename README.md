@@ -152,6 +152,8 @@ Use **Personal Access Token** instead of password when prompted.
 
 Automation Framework developed by **Manju S**
 
-📍 Cucumber | Selenium | Java | TestNG | POM
+| Senior Software Development Engineer in Test (SDET) |
+
+| 🔗 GitHub: https://github.com/ManjuS42 |
 
 
